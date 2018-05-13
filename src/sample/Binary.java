@@ -1,5 +1,4 @@
 package sample;
-/*FLOREA IONUT 342A3*/
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

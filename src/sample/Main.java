@@ -1,5 +1,5 @@
 package sample;
-/*FLOREA IONUT 342A3*/
+
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.embed.swing.SwingFXUtils;
